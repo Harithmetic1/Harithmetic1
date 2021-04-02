@@ -6,7 +6,7 @@
 - 👯 I’m looking for internships
 - 🤔 I’m looking for help with React
 - 💬 Ask me about Frontend Development
-- 📫 How to reach me: Twitter- @onigemoT_osin
+- 📫 How to reach me: Twitter- [@onigemoT_osin](https://twitter.com/onigemoT_osin)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love playing Basketball.
 
